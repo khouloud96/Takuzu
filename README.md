@@ -1,4 +1,6 @@
 # Takuzu
+ENSI (National School of Computer Science) Design & Developpment Project
+
 Takuzu or Binairo is a puzzle game consisting of filling a grid with numbers 0 and 1 by logical deduction.
 It's implemented in java.
 
@@ -15,9 +17,6 @@ Each grid contains only 0 and 1, and must be completed respecting three rules2:
 2/ No more than 2 identical digits side by side.
 
 3/ 2 rows or 2 columns can not be identical.
-
-# Takuzu
-ENSI (National School of Computer Science) Design & Developpment Project
 
 ## Technologies
  - Java 8
